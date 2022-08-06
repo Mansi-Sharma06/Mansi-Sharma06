@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently a B.tech CSE student.
-- 🌱 I’m currently learning DSA and Web Development.
-- 🤔 I’m looking for help with what I am learning.
-- 💬 Ask me about what I know.
-- 📫 How to reach me: https://linktr.ee/Mansi_Sharma06
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Cricket lover, MSDian 
+<li> 🔭 I’m currently a B.tech CSE student. </li>
+<li> 🌱 I’m currently learning DSA and Web Development. </li>
+<li> 🤔 I’m looking for help with what I am learning. </li>
+<li> 💬 Ask me about what I know. </li>
+<li> 📫 How to reach me: https://linktr.ee/Mansi_Sharma06 </li>
+<li> 😄 Pronouns: She/Her </li>
+<li> ⚡ Fun fact: Cricket lover, MSDian </li>
+
 
