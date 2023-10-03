@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](./C:\Users\hp\Downloads\github-header-image (1).png.png)
+//[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+![Header](./github-header-image (1).png)
 <h1 align="center">Hello 👋, I'm Mansi Sharma. Welcome to my profile!!</h1>
 <h2 align="right">I am a frontend developer and Teaching Assistant.
 I love programming, reading, and teaching.
