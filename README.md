@@ -1,8 +1,8 @@
+<h1 align="center"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
 
-<h1 align="center">Hello 👋, I'm Mansi Sharma. Welcome to my profile!!</h1>
-<h2 align="right">I am a frontend developer and Teaching Assistant.
+<h3 align="right"> I am a frontend developer and Teaching Assistant.
 I love programming, reading, and teaching.
-As a developer and TA, I enjoy using my obsessive attention to detail.</h2>
+As a developer and TA, I enjoy using my obsessive attention to detail.</h3>
 
 <p align="left"> <a href="https://twitter.com/ms_sharma06" target="blank"><img src="https://img.shields.io/twitter/follow/ms_sharma06?logo=twitter&style=for-the-badge" alt="ms_sharma06" /></a> </p>
 
