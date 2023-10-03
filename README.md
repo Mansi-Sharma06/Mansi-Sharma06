@@ -4,10 +4,6 @@
 I love programming, reading, and teaching.
 As a developer and TA, I enjoy using my obsessive attention to detail.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-sharma06&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-sharma06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi-sharma06" alt="mansi-sharma06" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ms_sharma06" target="blank"><img src="https://img.shields.io/twitter/follow/ms_sharma06?logo=twitter&style=for-the-badge" alt="ms_sharma06" /></a> </p>
 
 - 🏡 I’m a Btech, CSE student.
