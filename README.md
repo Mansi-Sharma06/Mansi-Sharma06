@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="![image](https://github.com/Mansi-Sharma06/Mansi-Sharma06/assets/78598152/5551527b-2e5c-4fdb-b3a5-7f450e5be90d)
+" height="230"/>
 </p>
 <h1 align="center"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
 
