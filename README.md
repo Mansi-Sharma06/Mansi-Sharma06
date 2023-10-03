@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))] (https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)
+
 <h1 align="center">Hello 👋, I'm Mansi Sharma. Welcome to my profile!!</h1>
 <h2 align="right">I am a frontend developer and Teaching Assistant.
 I love programming, reading, and teaching.
