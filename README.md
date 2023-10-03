@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 <h1 align="center"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
 
 <h3> I am a frontend developer and Teaching Assistant.
