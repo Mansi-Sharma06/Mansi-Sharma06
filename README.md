@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
 
-<h3 align="right"> I am a frontend developer and Teaching Assistant.
+<h3> I am a frontend developer and Teaching Assistant.
 I love programming, reading, and teaching.
 As a developer and TA, I enjoy using my obsessive attention to detail.</h3>
 
