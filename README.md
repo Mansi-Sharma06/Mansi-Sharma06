@@ -32,7 +32,7 @@ As a developer and TA, I enjoy using my obsessive attention to detail.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ms_sharma06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms_sharma06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mansi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mansi-sharma-5b30471b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-sharma-5b30471b4" height="30" width="40" /></a>
 <a href="https://instagram.com/ms_sharma06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_sharma06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mansi_sharma06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansi_sharma06" height="30" width="40" /></a>
 <a href="https://discord.gg/ms_sharma06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ms_sharma06" height="30" width="40" /></a>
