@@ -2,7 +2,8 @@
   <img src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c" height="330" width="700" />
 </p>
 
-<h1 align="center" style="transition: all 0.5s ease-in-out;"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
+<h1 align="center" style="transition: all 0.5s ease-in-out; color: #ff5733; font-size: 2.5em;"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1>
+
 
 ---
 
@@ -58,8 +59,17 @@
 
 ---
 
-### 🎯 Profile Visitors:
-![Profile Views](https://komarev.com/ghpvc/?username=Mansi-Sharma06&color=blue&style=flat-square)
+### 🔢 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mansi_Sharma06?theme=dark&font=Kanit&ext=activity)
+
+---
+
+### 🏏 Visitor Count:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW1C/giphy.gif" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=Mansi-Sharma06&color=blue&style=flat-square" />
+  <img src="https://media.giphy.com/media/J1ZKntRxJ3qvG/giphy.gif" height="150" />
+</p>
 
 ---
 
@@ -71,4 +81,9 @@
 
 ---
 
-⭐️ **If you like my work, feel free to follow & star my repositories!** ⭐️
+<p align="center">
+  <img src="https://i.giphy.com/media/xUOwFqZsU5s80fXBHq/giphy.webp" width="500px" />
+</p>
+
+<h2 align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.8em;">⭐️ If you like my work, feel free to follow & star my repositories! ⭐️</h2>
+
