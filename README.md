@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center" style="transition: all 0.5s ease-in-out; color: #ff5733; font-size: 2.5em;"> <b>Hello 👋, I'm Mansi Sharma. Welcome to my profile!! </b> </h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Hello,+👋,+I'm+Mansi+Sharma.;Welcome+to+my+profile!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff5733&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Hello,+👋,+I'm+Mansi+Sharma.;Welcome+to+my+profile!!+:%29)](https://git.io/typing-svg)
 
 
 
