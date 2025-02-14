@@ -64,17 +64,12 @@
 
 ---
 
-/*### 🏏 Visitor Count:
+### 🏏 Visitor Count:
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW1C/giphy.gif" height="150" />
   <img src="https://komarev.com/ghpvc/?username=Mansi-Sharma06&color=blue&style=flat-square" />
   <img src="https://media.giphy.com/media/J1ZKntRxJ3qvG/giphy.gif" height="150" />
-</p> */ 
-
----
-
-### 🎯 Profile Visitors:
-<img src="https://visitor-badge.glitch.me/badge?page_id=Mansi-Sharma06.profile" alt="visitor badge" />
+</p> 
 
 ---
 
@@ -94,5 +89,4 @@
 
 ---
 
-### 🌈 Gradient Flow:
-![Gradient Flow](https://raw.githubusercontent.com/Mansi-Sharma06/Mansi-Sharma06/main/assets/gradient.gif)
+
