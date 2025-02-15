@@ -12,20 +12,32 @@
 
 ---
 
+<!--cat gif-->
+<div>
+  <img align="right" width="23%" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952zg0dfvrwhr4rsb08o4ht1dn52p92uz1wg07gckc6&ep=v1_gifs_search&rid=200w.gif&ct=g">
+</div>
+
 ### 🚀 About Me:
 - 🔭 Currently working as an **SDE at Accenture**.
 - 🎓 **BTech in CSE**.
 - 😄 Pronouns : She/Her.
 - 👩‍🎓 Passionate **Educator & Mentor**, having trained **500+ students** in Java & DSA.
-- 💻 Experienced in **Java DSA, Salesforce, Java, Apex, LWC, Flows, SOQL Queries, and Git**.
-- 🌱 Learning **Advanced Salesforce Development & Cloud Technologies**.
-- 🏆 Former **Teaching Assistant at Coding Ninjas** & **Educator Associate at Geekster**.
+- 💻 Experienced in **Java DSA, Salesforce, Apex, LWC**.
+- 🌱 Learning **Advanced Salesforce Development**.
+- 🏆 Former **TA at Coding Ninjas** & **Educator Associate at Geekster**.
 - 🎯 Strong problem-solving skills with **1000+ doubts resolved** and a **4.8/5 rating**.
-- ⚡ Fun Fact: I enjoy writing **Shayaris** & have a knack for engaging storytelling! A huge cricket fan, true MSDian ❤️.
+- ⚡ Fun Fact: I enjoy writing **Shayaris**! A huge cricket fan, true **MSDian** ❤️.
 
 ---
 
 ### 🛠️ Languages & Tools:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true">
+  <img align="right" width="30%" alt="GIF description" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true"> 
+</picture>
+<br /> 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge&logo=data:image/svg+xml;base64)
@@ -45,22 +57,97 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+<br /> 
 
 ---
 
-### 📊 GitHub Stats:
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Mansi-Sharma06">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mansi-Sharma06&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Mansi-Sharma06&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mansi-Sharma06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<!-- <p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Mansi-Sharma06/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p> -->
+<br />
+
+---
+
+<!-- ### 📊 GitHub Stats:
 
 ![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansi-Sharma06&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Sharma06&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Sharma06&theme=tokyonight) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-sharma06&" alt="mansi-sharma06" /></p> -->
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Sharma06&layout=compact&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Sharma06&layout=compact&theme=tokyonight)
+
+--- -->
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mansi-Sharma06">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mansi-Sharma06&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mansi-Sharma06">
+          <img align="center" src="https://streak-stats.demolab.com?user=Mansi-Sharma06&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Languages </strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mansi-Sharma06">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Sharma06&layout=compact&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mansi-Sharma06">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Mansi-Sharma06&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ---
+
+<!--MSD gif -->
+<div>
+  <img align="right" width="40%" src="https://media.tenor.com/YT4QPh1fDrUAAAAM/mahendra-singh-dhoni-ms-dhoni.gif">
+</div>
 
 ### 🔢 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mansi_Sharma06?theme=dark&font=Kanit&ext=activity)
