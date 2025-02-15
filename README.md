@@ -59,7 +59,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-<br /> 
+
+ 
 
 ---
 
@@ -146,7 +147,7 @@
 
 <!--MSD gif -->
 <div>
-  <img align="right" width="40%" src="https://media.tenor.com/YT4QPh1fDrUAAAAM/mahendra-singh-dhoni-ms-dhoni.gif">
+  <img align="right" width="30%" src="https://media.tenor.com/YT4QPh1fDrUAAAAM/mahendra-singh-dhoni-ms-dhoni.gif">
 </div>
 
 ### 🔢 LeetCode Stats:
