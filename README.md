@@ -55,7 +55,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Sharma06&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-sharma06&" alt="mansi-sharma06" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-sharma06&" alt="mansi-sharma06" /></p> -->
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Sharma06&layout=compact&theme=tokyonight)
