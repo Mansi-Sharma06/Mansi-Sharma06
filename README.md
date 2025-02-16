@@ -147,7 +147,9 @@
 
 <!--MSD gif -->
 <div>
-  <img align="right" width="30%" src="https://media.tenor.com/YT4QPh1fDrUAAAAM/mahendra-singh-dhoni-ms-dhoni.gif">
+  <img align="right" width="35%" src="https://media.tenor.com/1sUrksJpa4kAAAAM/whistle-podu-ms-dhoni.gif"> 
+<!--  https://media.tenor.com/YT4QPh1fDrUAAAAM/mahendra-singh-dhoni-ms-dhoni.gif -->
+ 
 </div>
 
 ### 🔢 LeetCode Stats:
