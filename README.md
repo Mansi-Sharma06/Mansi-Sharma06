@@ -192,6 +192,17 @@ Thanks for stopping by! 🚀
 
 ---
 
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=You're%20never%20too%20old%20for%20anything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
+
 ### 💻 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-sharma-06/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mansi-Sharma06)
