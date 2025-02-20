@@ -197,7 +197,7 @@ Thanks for stopping by! 🚀
 
 <!--STARTS_HERE_SHAYRI_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=%20%20%20%20%20.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=%20&quote=%20%20%20%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_SHAYRI_CARD-->
 
