@@ -192,6 +192,17 @@ Thanks for stopping by! 🚀
 
 ---
 
+<!--Dynamic Shayri card updates everyday at 12 PM--> 
+<h2 align="center">🌟 शायरी ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_SHAYRI_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=%20%20%20%20%20.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_SHAYRI_CARD-->
+
+---
+
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
