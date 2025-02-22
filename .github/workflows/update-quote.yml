@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: '15 13 * * *'  # Schedule daily at 12:01 AM Indian Time
+    - cron: '0 0 * * *'  # Schedule daily at 12:00 AM Indian Time
 
 jobs:
   update-readme:
