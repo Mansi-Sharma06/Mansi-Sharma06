@@ -197,7 +197,7 @@ Thanks for stopping by! 🚀
 
 <!--STARTS_HERE_SHAYRI_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=गुनमय%20शर्मा&quote=%20%20%20%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=गुनमय%20शर्मा&quote=इंसान%20हु%20किरदार%20थोड़ी%20जो%20हर%20वक्त%20तुम्हें%20हंसाता%20रहुगा,%20दर्द%20मुझे%20भी%20होता%20है,%20कब%20तक%20मुस्कुरा%20के%20छिपाता%20रहुगा।&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_SHAYRI_CARD-->
 
