@@ -27,6 +27,7 @@
 - 🏆 Former **TA at Coding Ninjas** & **Educator Associate at Geekster**.
 - 🎯 Strong problem-solving skills with **1000+ doubts resolved** and a **4.8/5 rating**.
 - ⚡ Fun Fact: I enjoy writing **Shayaris**! A huge cricket fan, true **MSDian** ❤️.
+- 🐈 Cats are LOVE...❤️ Meow  Meow  Meow  Meow  Meow  Meow  Meow...
 
 ---
 
