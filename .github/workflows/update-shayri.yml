@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Update Quote
-        run: node update-quote.js
+      - name: Update Shayari
+        run: node update-shayri.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
