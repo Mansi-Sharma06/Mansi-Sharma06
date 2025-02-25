@@ -1,15 +1,15 @@
 const fs = require('fs');
 
-async function updateQuote() {
+async function updateShayari() {
   try {
-    const quotes = require('./shayris.json');
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    const { quote, author } = quotes[randomIndex];
+    const shayari = require('./shayris.json');
+    const randomIndex = Math.floor(Math.random() * shayari.length);
+    const { shayari, author } = shayari[randomIndex];
 
     const cardDesign = `
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&shayari=${encodeURIComponent(quote)}&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 `;
@@ -28,4 +28,4 @@ async function updateQuote() {
   }
 }
 
-updateQuote();
+updateShayari();
