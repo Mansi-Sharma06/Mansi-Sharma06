@@ -1,9 +1,9 @@
 name: Update Shayri
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Allows manual trigger
   schedule:
-    - cron: '0 0 * * *'  # Schedule daily at 12:00 AM Indian Time
+    - cron: '30 18 * * *'  # Runs at 12:00 AM IST (18:30 UTC)
 
 jobs:
   update-readme:
@@ -22,12 +22,11 @@ jobs:
         run: npm install
 
       - name: Update Shayari
-        run: node update-shayri.js
+        run: node updateShayari.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
-          git add README.md
-          git -c user.name='Mansi-Sharma06' -c user.email='0609ms.sharma@gmail.com' commit -m "Update README with daily shayri" -a
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with daily shayri" -a
           git push
