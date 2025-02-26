@@ -26,7 +26,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+       - name: Commit and push changes
         run: |
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update README with daily shayri" -a
+          git config --global user.name 'Mansi-Sharma06'
+          git config --global user.email '0609ms.sharma@gmail.com'
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update README with daily shayari"
           git push
