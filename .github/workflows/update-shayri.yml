@@ -1,9 +1,12 @@
 name: Update Shayri
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  push:
+    branches:
+      - main
+  workflow_dispatch:
   schedule:
-    - cron: '30 18 * * *'  # Schedule daily at 12:00 AM Indian Time
+    - cron: '20 18 * * *'  # Run daily at 11:50 PM UTC (5 minutes earlier)
 
 jobs:
   update-readme:
@@ -16,7 +19,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: 18  # Updated to latest Node.js version
 
       - name: Install dependencies
         run: npm install
@@ -29,5 +32,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='Mansi-Sharma06' -c user.email='0609ms.sharma@gmail.com' commit -m "Update README with daily shayri" -a
+          git -c user.name='Mansi-Sharma06' -c user.email='0609ms.sharma@gmail.com' commit -m "Update README with daily Shayari" -a
           git push
