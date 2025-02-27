@@ -222,11 +222,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%A6%20%E0%A4%AB%E0%A4%BC%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BC&shayari=%E0%A4%85%E0%A4%AC%20%E0%A4%9C%E0%A5%8B%20%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%A4%20%E0%A4%B9%E0%A5%88%E0%A4%82%2C%20%E0%A4%89%E0%A4%A8%E0%A4%B8%E0%A5%87%20%E0%A4%B2%E0%A4%97%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%2C%0A%E0%A4%AE%E0%A5%88%E0%A4%82%20%E0%A4%A4%E0%A5%81%E0%A4%9D%E0%A5%87%20%E0%A4%AD%E0%A5%82%E0%A4%B2%20%E0%A4%B9%E0%A5%80%20%E0%A4%9C%E0%A4%BE%E0%A4%8A%E0%A4%81%E0%A4%97%E0%A4%BE%E0%A5%A4&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=The%20pessimist%20sees%20difficulty%20in%20every%20opportunity.%20The%20optimist%20sees%20opportunity%20in%20every%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
