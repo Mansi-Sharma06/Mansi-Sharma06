@@ -255,11 +255,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Creative%20endeavors%20are%20by%20their%20nature%20uncertain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Don't%20blame%20others.%20it%20won't%20make%20you%20a%20better%20person.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
