@@ -221,44 +221,10 @@ Thanks for stopping by! 🚀
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -270,26 +236,11 @@ Thanks for stopping by! 🚀
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://media.assettype.com/outlookindia/2025-03-09/ek4wx47i/India-win-Champions-Trophy-2025-ap-photo.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0" height="450" width="801" />
+</p>
 
 ---
 
