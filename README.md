@@ -468,11 +468,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=To%20be%20yourself%20in%20a%20world%20that%20is%20constantly%20trying%20to%20make%20you%20something%20else%20is%20the%20greatest%20accomplishment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Anyone%20who%20stops%20learning%20is%20old%2C%20whether%20at%20twenty%20or%20eighty.%20Anyone%20who%20keeps%20learning%20stays%20young.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
