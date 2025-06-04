@@ -483,11 +483,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Don't%20waste%20your%20energy%20on%20being%20angry%20at%20something%20that%20somebody%20did%20six%20months%20ago%20or%20a%20year%20ago.%20It's%20over.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20put%20my%20heart%20and%20soul%20into%20my%20work%2C%20and%20I%20have%20lost%20my%20mind%20in%20the%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
