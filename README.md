@@ -528,11 +528,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=Failure%20is%20an%20option%20here.%20If%20things%20are%20not%20failing%2C%20you%20are%20not%20innovating%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=We%20crave%20for%20new%20sensations%20but%20soon%20become%20indifferent%20to%20them.%20The%20wonders%20of%20yesterday%20are%20today%20common%20occurrences%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
