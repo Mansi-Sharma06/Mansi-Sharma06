@@ -627,11 +627,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=We%20are%20like%20islands%20in%20the%20sea%2C%20separate%20on%20the%20surface%20but%20connected%20in%20the%20deep.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Thinking%20is%20a%20habit%2C%20and%20like%20any%20other%20habit%2C%20it%20can%20be%20changed%3B%20it%20just%20takes%20effort%20and%20repetition.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
