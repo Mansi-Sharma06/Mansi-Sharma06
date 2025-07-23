@@ -630,11 +630,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Thinking%20is%20a%20habit%2C%20and%20like%20any%20other%20habit%2C%20it%20can%20be%20changed%3B%20it%20just%20takes%20effort%20and%20repetition.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=There%20exists%20only%20the%20present%20instant%3B%20a%20Now%20which%20always%20and%20without%20end%20is%20itself%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
