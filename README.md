@@ -248,11 +248,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=He%20who%20has%20overcome%20his%20fears%20will%20truly%20be%20free.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Never%20argue%20with%20ignorance.%20It%20only%20leads%20to%20frustration.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
