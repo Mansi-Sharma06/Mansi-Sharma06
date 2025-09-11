@@ -266,11 +266,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=Nothing%20can%20dim%20the%20light%20which%20shines%20from%20within.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Life%20has%20no%20limitations%20except%20the%20ones%20you%20make.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
