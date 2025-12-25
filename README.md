@@ -581,11 +581,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Be%20truthful%20about%20your%20emotions%2C%20and%20use%20your%20mind%20and%20emotions%20in%20your%20favor%2C%20not%20against%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=There%20are%20more%20people%20who%20wish%20to%20be%20loved%20than%20there%20are%20who%20are%20willing%20to%20love.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
