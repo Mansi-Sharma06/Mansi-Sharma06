@@ -650,11 +650,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=I%20take%20the%20position%20that%20I'm%20always%20to%20some%20degree%20wrong%2C%20and%20the%20aspiration%20is%20to%20be%20less%20wrong.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=You%20need%20to%20be%20doing%20fewer%20things%20for%20more%20effect%20instead%20of%20doing%20more%20things%20with%20side%20effects.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
