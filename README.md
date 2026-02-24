@@ -762,11 +762,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Heal%20the%20past%2C%20live%20the%20present%2C%20dream%20the%20future.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20greatest%20doer%20must%20also%20be%20a%20great%20dreamer.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
