@@ -789,11 +789,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=Death%20is%20as%20sure%20for%20that%20which%20is%20born%2C%20as%20birth%20is%20for%20that%20which%20is%20dead.%20Therefore%20grieve%20not%20for%20what%20is%20inevitable.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=In%20a%20world%20that%20is%20constantly%20changing%2C%20it%20is%20to%20our%20advantage%20to%20learn%20how%20to%20adapt%20and%20enjoy%20something%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
