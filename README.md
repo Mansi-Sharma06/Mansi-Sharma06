@@ -957,11 +957,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Most%20people%20spend%20more%20time%20and%20energy%20going%20around%20problems%20than%20in%20trying%20to%20solve%20them.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Remain%20calm%2C%20serene%2C%20always%20in%20command%20of%20yourself.%20You%20will%20then%20find%20out%20how%20easy%20it%20is%20to%20get%20along.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
