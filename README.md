@@ -963,11 +963,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Death%20walks%20faster%20than%20the%20wind%20and%20never%20returns%20what%20he%20has%20taken.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Everyone%20has%20a%20sense%20of%20humor.%20If%20you%20don't%20laugh%20at%20jokes%2C%20you%20probably%20laugh%20at%20opinions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
