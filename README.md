@@ -487,11 +487,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Everyday%20you%20can%20take%20a%20tiny%20step%20in%20the%20right%20direction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20major%20difference%20between%20the%20big%20shot%20and%20the%20little%20shot%20is%20the%20big%20shot%20is%20just%20a%20little%20shot%20who%20kept%20on%20shooting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
