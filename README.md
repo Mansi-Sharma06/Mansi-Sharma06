@@ -526,11 +526,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=A%20Hero%20is%20an%20ordinary%20individual%20who%20finds%20the%20strength%20to%20persevere%20and%20endure%20in%20spite%20of%20overwhelming%20obstacles.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=There%20is%20always%20risk%2C%20so%20learn%20to%20manage%20risk%20instead%20of%20avoiding%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
