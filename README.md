@@ -634,11 +634,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=You%20have%20to%20accept%20whatever%20comes%2C%20and%20the%20only%20important%20thing%20is%20that%20you%20meet%20it%20with%20the%20best%20you%20have%20to%20give.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=Happiness%20can%20be%20found%2C%20even%20in%20the%20darkest%20of%20times%2C%20if%20one%20only%20remembers%20to%20turn%20on%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
