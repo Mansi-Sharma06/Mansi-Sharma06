@@ -739,11 +739,13 @@ Thanks for stopping by! 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20I%20begin%20a%20new%20life.%20I%20will%20greet%20this%20day%20with%20love%20in%20my%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Don't%20live%20the%20same%20year%2075%20times%20and%20call%20it%20a%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
